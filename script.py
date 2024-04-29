@@ -67,7 +67,7 @@ Available commands:-
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : @{}
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/@LUFFY1JOYBOY>𝓢𝓝𝓞𝓦𝓑𝓐𝓛𝓛</a>
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/LUFFY1JOYBOY>𝓢𝓝𝓞𝓦𝓑𝓐𝓛𝓛</a>
 ├👑 Anime Channel : <a href=https://t.me/animeotaku109>C-Anime</a> 
 ├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/animeotakugc109>K-Lᴀɴᴅ</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
